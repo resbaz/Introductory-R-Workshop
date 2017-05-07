@@ -110,22 +110,31 @@ sessionInfo()
 
 
 ~~~{.output}
-R version 3.2.4 Revised (2016-03-16 r70336)
+R version 3.4.0 (2017-04-21)
 Platform: x86_64-pc-linux-gnu (64-bit)
-Running under: Debian GNU/Linux 8 (jessie)
+Running under: Arch Linux
+
+Matrix products: default
+BLAS: /usr/lib/libblas_haswellp-r0.2.19.so
+LAPACK: /usr/lib/liblapack.so.3.7.0
 
 locale:
-[1] C
+ [1] LC_CTYPE=en_AU.UTF-8       LC_NUMERIC=C              
+ [3] LC_TIME=en_AU.UTF-8        LC_COLLATE=en_AU.UTF-8    
+ [5] LC_MONETARY=en_AU.UTF-8    LC_MESSAGES=en_AU.UTF-8   
+ [7] LC_PAPER=en_AU.UTF-8       LC_NAME=C                 
+ [9] LC_ADDRESS=C               LC_TELEPHONE=C            
+[11] LC_MEASUREMENT=en_AU.UTF-8 LC_IDENTIFICATION=C       
 
 attached base packages:
 [1] stats     graphics  grDevices utils     datasets  base     
 
 other attached packages:
-[1] knitr_1.12.3
+[1] knitr_1.15.1
 
 loaded via a namespace (and not attached):
-[1] magrittr_1.5   formatR_1.3    tools_3.2.4    stringi_1.0-1 
-[5] methods_3.2.4  stringr_1.0.0  evaluate_0.8.3
+[1] compiler_3.4.0 magrittr_1.5   tools_3.4.0    stringi_1.1.5 
+[5] methods_3.4.0  stringr_1.2.0  evaluate_0.10 
 
 ~~~
 
